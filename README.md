@@ -11,12 +11,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 gmright
-## Header 2 gmright.fixer 
+# Header 1 #72829
+## Header 2 gmright.com_property:georgemwasafi@gmail.com 
 ### Header 3gmright solver
 
-- Bulleted
+- Bulleted-george makulu 
 - List
+Primary-gmright.org-property
+Term limits are not a problem 
+Terms and services gmright.org
+Terms-gmright.com
+Host:George maluku 
+Host:181819273929
+Host: www.gmright.com 
+Host: gmright.git
+Host:www.gmright.org
+
 
 1. Numbered
 2. List
@@ -35,5 +45,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact 
 George makulu 
 Owners email: georgemwasafi@gmail.com
+Property:gmright-217706 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://gmright.com/contact) and we’ll help you sort it out.
