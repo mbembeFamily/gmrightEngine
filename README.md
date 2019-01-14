@@ -5,7 +5,7 @@ You can use the [editor on gmright.com](https://gmright.com/GeorgeMAKULU/gmright
 Whenever you commit to this repository, gmright Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-WWW.GMRIGHT.COM 
+WWW.blogger.com 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -15,16 +15,16 @@ Syntax highlighted code block
 ## Header 2 gmright.com_property:georgemwasafi@gmail.com 
 ### Header 3gmright solver
 
-- Bulleted-george makulu 
+- Bulleted-www.blogger.com
 - List
-Primary-gmright.org-property
+Primary-blogger.com-property
 Term limits are not a problem 
 Terms and services gmright.org
 Terms-gmright.com
 Host:George maluku 
 Host:181819273929
-Host: www.gmright.com 
-Host: gmright.git
+Host: www.blogger.com 
+Host: https://www.github.com/blogger/gmright
 Host:www.gmright.org
 
 
